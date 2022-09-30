@@ -3,7 +3,7 @@
 ## Local Hosting
 ```sh
 # clone the repo
-git clone https://github.com/dorukyum/FNAF-Web.git
+git clone https://github.com/PbtServers/PbtFNAF-Web.git
 
 # install the dependencies
 npm install
